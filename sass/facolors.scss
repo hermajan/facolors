@@ -1,0 +1,382 @@
+/**
+ * Colors for Font Awesome icons.
+ */
+.fa-android {
+	color: #A4C639;
+	&:hover { color: inherit; }
+}
+
+.fa-angular {
+	color: #DD0031;
+	&:hover { color: #C3002F; }
+}
+
+.fa-apple, .fa-apple-pay, .fa-cc-apple-pay {
+	color: black;
+	&:hover { color: grey; }
+}
+
+.fa-bitbucket, .fa-bitbucket-square {
+	color: #0052CC;
+	&:hover { color: #172B4D; }
+}
+
+.fa-bitcoin, .fa-btc {
+	color: #F2A900;
+	&:hover { color: #4E4E4F; }
+}
+
+.fa-blackberry {
+	color: #282828;
+	&:hover { color: #212359; }
+}
+
+.fa-blogger, .fa-blogger-b {
+	color: #FF5722;
+	&:hover { color: #202020; }
+}
+
+.fa-bluetooth, .fa-bluetooth-b {
+	color: #0082FC;
+	&:hover { color: blue; }
+}
+
+.fa-creative-commons {
+	color: #121513;
+	&:hover { color: #ABB3AC; }
+}
+
+.fa-css3, .fa-css3-alt {
+	color: #1572B6;
+	&:hover { color: #33A9DC; }
+}
+
+.fa-deviantart {
+	color: #05CC47;
+	&:hover { color: #475C4D; }
+}
+
+.fa-digg {
+	color: black;
+	&:hover { color: inherit; }
+}
+
+.fa-dropbox {
+	color: #007EE5;
+	&:hover { color: black; }
+}
+
+.fa-drupal {
+	color: #0678BE;
+	&:hover { color: #064771; }
+}
+
+.fa-edge {
+	color: #0379D7;
+	&:hover { color: inherit; }
+}
+ 
+.fa-internet-explorer {
+	color: #00BCF2;
+	&:hover { color: inherit; }
+}
+ 
+.fa-facebook, .fa-facebook-f, .fa-facebook-official, .fa-facebook-square {
+	color: #3B5998;
+	&:hover { color: inherit; }
+}
+
+.fa-facebook-messenger {
+	color: #0084FF;
+	&:hover { color: inherit; }
+}
+
+.fa-fa, .fa-font-awesome, .fa-font-awesome-flag, .fa-font-awesome-alt {
+	color: #228ae6;
+	&:hover { color: #1FA67A; }
+}
+
+.fa-foursquare {
+	color:  #F94877;
+	&:hover { color: #0732A2; }
+}
+
+.fa-git, .fa-git-square {
+	color: #F34F29;
+	&:hover { color: #3D2D00; }
+}
+
+.fa-github, .fa-github-alt, .fa-github-square {
+	color: black;
+	&:hover { color: #4078C0; }
+}
+
+.fa-gitkraken {
+	color: #20968B;
+	&:hover { color: #141422; }
+}
+
+.fa-gitlab {
+	color: #E24329;
+	&:hover { color: #6B4FBB; }
+}
+
+.fa-gitter {
+	color: #F3015D;
+	&:hover { color: #231E59; }
+}
+
+.fa-goodreads {
+	color: #E9E5CD; background-color: #79440F;
+	&:hover { color: #79440F; background-color: #E9E5CD; }
+}
+
+.fa-goodreads-g {
+	color: #79440F;
+	&:hover { color: #E9E5CD; }
+}
+
+.fa-google {
+	color: #4285F4;
+	&:hover { color: inherit; }
+}
+
+.fa-google-plus, .fa-google-plus-circle, .fa-google-plus-official, .fa-google-plus-square, .fa-google-plus-g {
+	color: #DD4B39;
+	&:hover { color: inherit; }
+}
+
+.fa-gulp {
+	color: #EB4A4B;
+	&:hover { color: inherit; }
+}
+
+.fa-heart, .fa-heart-o, .fa-heartbeat {
+	color: red;
+	&:hover { color: inherit; }
+}
+
+.fa-html5 {
+	color: #E34C26;
+	&:hover { color: #F06529; }
+}
+
+.fa-imdb {
+	color: #F3CE00; background-color: black;
+	&:hover { color: black; background-color: #F3CE00; }
+}
+
+.fa-instagram {
+	color: black;
+	&:hover { color: inherit; }
+}
+
+.fa-js, .fa-js-square {
+	color: #F8DC3D; background-color: #2F2F2C;
+	&:hover { color: #2F2F2C; background-color: #F8DC3D; }
+}
+
+.fa-jsfiddle {
+	color: #1C90F3;
+	&:hover { color: #1B63A2; }
+}
+
+.fa-kickstarter, .fa-kickstarter-k {
+	color: 	#034752;
+	&:hover { color: #2b2727; }
+}
+
+.fa-lastfm, .fa-lastfm-square {
+	color: #E31B23;
+	&:hover { color: inherit; }
+}
+
+.fa-less {
+	color: #28497B;
+	&:hover { color: #1D365D; }
+}
+
+.fa-linkedin, .fa-linkedin-square, .fa-linkedin-in {
+	color: #0077B5;
+	&:hover { color: inherit; }
+}
+
+.fa-linux {
+	color: black;
+	&:hover { color: inherit; }
+}
+
+.fa-medium, .fa-medium-m {
+	color: #00AB6C;
+	&:hover { color: inherit; }
+}
+
+.fa-node, .fa-node-js {
+	color: #339933;
+	&:hover { color: #333333; }
+}
+
+.fa-npm {
+	color: #CB3837;
+	&:hover { color: #333333; }
+}
+
+.fa-opera {
+	color: #FF1B2D;
+	&:hover { color: #B40A33; }
+}
+
+.fa-python {
+	color: #366F9F;
+	&:hover { color: #FFDB4F; }
+}
+
+.fa-paypal, .fa-cc-paypal {
+	color: #003087;
+	&:hover { color: #009CDE; }
+}
+
+.fa-pied-piper, .fa-pied-piper-alt, .fa-pied-piper-pp {
+	color: #008479;
+	&:hover { color: inherit; }
+}
+
+.fa-pinterest, .fa-pinterest-p, .fa-pinterest-square {
+	color: #BD081C;
+	&:hover { color: inherit; }
+}
+
+.fa-get-pocket {
+	color: #EE4056;
+	&:hover { color: inherit; }
+}
+
+.fa-react {
+	color: #61DAFB;
+	&:hover { color: #20232A; }
+}
+
+.fa-reddit, .fa-reddit-alien, .fa-reddit-square {
+	color: #FF4500;
+	&:hover { color: inherit; }
+}
+
+.fa-sass {
+	color: #CD669A;
+	&:hover { color: #040707; }
+}
+
+.fa-skype {
+	color: #009FE3;
+	&:hover { color: inherit; }
+}
+
+.fa-slack, .fa-slack-hash {
+	color: #2D333A;
+	&:hover { color: inherit; }
+}
+
+.fa-snapchat, .fa-snapchat-ghost, .fa-snapchat-square {
+	color: #FFFC00;
+	&:hover { color: black; }
+}
+
+.fa-soundcloud {
+	color: #F50;
+	&:hover { color: inherit; }
+}
+
+.fa-spotify {
+	color: #1DB954;
+	&:hover { color: #191414; }
+}
+
+.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
+	color: yellow;
+	&:hover { color: inherit; }
+}
+
+.fa-steam, .fa-steam-square, .fa-steam-symbol {
+	color: black;
+	&:hover { color: #67C1F5; }
+}
+
+.fa-telegram, .fa-telegram-plane {
+	color: #179CDE;
+	&:hover { color: inherit; }
+}
+
+.fa-trello {
+	color: #0079BF;
+	&:hover { color: #0C3953; }
+}
+
+.fa-tripadvisor {
+	color: black;
+	&:hover { color: #589442; }
+}
+
+.fa-tumblr, .fa-tumblr-square {
+	color: #35465C;
+	&:hover { color: #444444; }
+}
+
+.fa-twitch {
+	color: #6441A4;
+	&:hover { color: black; }
+}
+
+.fa-twitter, .fa-twitter-square {
+	color: #55ACEE;
+	&:hover { color: inherit; }
+}
+
+.fa-vimeo, .fa-vimeo-square, .fa-vimeo-v {
+	color: #1AB7EA;
+	&:hover { color: #162221; }
+}
+
+.fa-vine {
+	color: #00B489;
+	&:hover { color: inherit; }
+}
+
+.fa-whatsapp, .fa-whatsapp-square {
+	color: #25D366;
+	&:hover { color: #128C7E; }
+}
+
+.fa-windows {
+	color: #0078D7;
+	&:hover { color: inherit; }
+}
+
+.fa-wikipedia-w {
+	color: black;
+	&:hover { color: #0645AD; }
+}
+
+.fa-wordpress, .fa-wordpress-simple {
+	color: #464646;
+	&:hover { color: #21759B; }
+}
+
+.fa-xbox {
+	color: #107C10;
+	&:hover { color: #5DC21E; }
+}
+
+.fa-yahoo {
+	color: #400192;
+	&:hover { color: inherit; }
+}
+
+.fa-yelp {
+	color: #D32323;
+	&:hover { color: black; }
+}
+
+.fa-youtube, .fa-youtube-play, .fa-youtube-square {
+	color: #E52D27;
+	&:hover { color: inherit; }
+}

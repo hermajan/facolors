@@ -1,0 +1,17 @@
+{
+	"name": "hermajan/facolors",
+	"description": "Colors for Font Awesome icons.",
+	"type": "library",
+	"license": "MIT",
+	
+	"homepage": "https://hermajan.net/facolors",
+	"support": {
+		"issues": "https://github.com/hermajan/facolors/issues"
+	},
+	
+	"config": {
+		"vendor-dir": "vendor",
+		"sort-packages": true,
+		"optimize-autoloader": true
+	}
+}
