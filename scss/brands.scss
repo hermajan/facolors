@@ -1,8 +1,7 @@
-/**
- * Colors for Font Awesome icons.
- */
+/** Colors for brand icons. */
 .fa-android {
 	color: #A4C639;
+	
 	&:hover { color: inherit; }
 }
 
@@ -151,11 +150,6 @@
 	&:hover { color: inherit; }
 }
 
-.fa-heart, .fa-heart-o, .fa-heartbeat {
-	color: red;
-	&:hover { color: inherit; }
-}
-
 .fa-html5 {
 	color: #E34C26;
 	&:hover { color: #F06529; }
@@ -263,7 +257,7 @@
 
 .fa-sass {
 	color: #CD669A;
-	&:hover { color: #040707; }
+	&:hover { color: #036; }
 }
 
 .fa-skype {
@@ -289,11 +283,6 @@
 .fa-spotify {
 	color: #1DB954;
 	&:hover { color: #191414; }
-}
-
-.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
-	color: yellow;
-	&:hover { color: inherit; }
 }
 
 .fa-steam, .fa-steam-square, .fa-steam-symbol {

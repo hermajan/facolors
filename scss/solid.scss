@@ -1,0 +1,10 @@
+/** Colors for solid icons. */
+.fa-heart, .fa-heart-o, .fa-heartbeat {
+	color: red;
+	&:hover { color: inherit; }
+}
+
+.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
+	color: yellow;
+	&:hover { color: inherit; }
+}

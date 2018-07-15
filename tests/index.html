@@ -6,7 +6,7 @@
 		
 		<link rel="stylesheet" href="../node_modules/@fortawesome/fontawesome-free/css/fontawesome.css">
 		<link href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" rel="stylesheet">
-		<link rel="stylesheet" href="../sass/facolors.css">
+		<link rel="stylesheet" href="../css/facolors.css">
 		
 		<style>
             ul { list-style-type: none; padding: 0; }
@@ -312,15 +312,15 @@
 		</ul>
 
 <script>
+	brands = document.querySelectorAll("#brands i");
+	for(var i=0; i<brands.length; i++) {
+		brands[i].classList.add("fab");
+	}
+	
 	icons = document.querySelectorAll("i");
 	for(var i=0; i<icons.length; i++) {
 		icons[i].setAttribute("title", icons[i].className);
 		icons[i].classList.add("fa-2x");
-	}
-	
-	brands = document.querySelectorAll("#brands i");
-	for(i=0; i<brands.length; i++) {
-		brands[i].classList.add("fab");
 	}
 </script>
 	</body>
