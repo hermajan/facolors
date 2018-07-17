@@ -2,14 +2,13 @@
 	"name": "@hermajan/facolors",
 	"description": "Colors for Font Awesome icons.",
 	"license": "MIT",
-	
+	"version": "0.1.0",
 	"homepage": "https://hermajan.net/facolors",
 	"bugs": "https://github.com/hermajan/facolors/issues",
 	"repository": {
 		"url": "https://github.com/hermajan/facolors",
 		"type": "git"
 	},
-	
 	"dependencies": {},
 	"devDependencies": {
 		"@fortawesome/fontawesome-free": "^5.1.0"
