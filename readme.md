@@ -4,7 +4,7 @@
 
 Colors for [Font Awesome](https://fontawesome.com/) icons.
 
-## Instalation
+## Installation
 Install this via one of package managers:
 * [Composer](https://getcomposer.org) - `composer require hermajan/facolors`
 * [npm](https://www.npmjs.com) - `npm i @hermajan/facolors`
