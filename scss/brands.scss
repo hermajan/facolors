@@ -39,6 +39,12 @@
 	&:hover { color: blue; }
 }
 
+.fa-bootstrap,
+.bi-bootstrap-fill, .bi-bootstrap {
+	color: #7952b3;
+	&:hover { color: black; }
+}
+
 .fa-creative-commons {
 	color: #121513;
 	&:hover { color: #ABB3AC; }
@@ -59,6 +65,12 @@
 	&:hover { color: inherit; }
 }
 
+.fa-discord,
+.bi-discord {
+	color: #7289DA;
+	&:hover { color: #000000; }
+}
+
 .fa-dropbox {
 	color: #007EE5;
 	&:hover { color: black; }
@@ -73,13 +85,14 @@
 	color: #0379D7;
 	&:hover { color: inherit; }
 }
- 
+
 .fa-internet-explorer {
 	color: #00BCF2;
 	&:hover { color: inherit; }
 }
- 
-.fa-facebook, .fa-facebook-f, .fa-facebook-official, .fa-facebook-square {
+
+.fa-facebook, .fa-facebook-f, .fa-facebook-official, .fa-facebook-square,
+.bi-facebook {
 	color: #3B5998;
 	&:hover { color: inherit; }
 }
@@ -104,7 +117,8 @@
 	&:hover { color: #3D2D00; }
 }
 
-.fa-github, .fa-github-alt, .fa-github-square {
+.fa-github, .fa-github-alt, .fa-github-square,
+.bi-github {
 	color: black;
 	&:hover { color: #4078C0; }
 }
@@ -134,7 +148,8 @@
 	&:hover { color: #E9E5CD; }
 }
 
-.fa-google {
+.fa-google,
+.bi-google {
 	color: #4285F4;
 	&:hover { color: inherit; }
 }
@@ -159,7 +174,7 @@
 	&:hover { color: black; background-color: #F3CE00; }
 }
 
-.fa-instagram {
+.fa-instagram, .fa-instagram-square {
 	color: black;
 	&:hover { color: inherit; }
 }
@@ -189,7 +204,8 @@
 	&:hover { color: #1D365D; }
 }
 
-.fa-linkedin, .fa-linkedin-square, .fa-linkedin-in {
+.fa-linkedin, .fa-linkedin-square, .fa-linkedin-in,
+.bi-linkedin {
 	color: #0077B5;
 	&:hover { color: inherit; }
 }
@@ -264,7 +280,8 @@
 	&:hover { color: inherit; }
 }
 
-.fa-slack, .fa-slack-hash {
+.fa-slack, .fa-slack-hash,
+.bi-slack {
 	color: #2D333A;
 	&:hover { color: inherit; }
 }
@@ -309,12 +326,14 @@
 	&:hover { color: #444444; }
 }
 
-.fa-twitch {
+.fa-twitch,
+.bi-twitch {
 	color: #6441A4;
 	&:hover { color: black; }
 }
 
-.fa-twitter, .fa-twitter-square {
+.fa-twitter, .fa-twitter-square,
+.bi-twitter {
 	color: #55ACEE;
 	&:hover { color: inherit; }
 }
@@ -364,7 +383,8 @@
 	&:hover { color: black; }
 }
 
-.fa-youtube, .fa-youtube-play, .fa-youtube-square {
+.fa-youtube, .fa-youtube-play, .fa-youtube-square,
+.bi-youtube {
 	color: #E52D27;
 	&:hover { color: inherit; }
 }

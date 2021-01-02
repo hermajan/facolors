@@ -1,5 +1,5 @@
 /**
- * Colors for Font Awesome icons.
+ * Colors for Bootstrap and Font Awesome icons.
  */
 /** Colors for brand icons. */
 .fa-android {
@@ -66,6 +66,16 @@
   color: blue;
 }
 
+.fa-bootstrap,
+.bi-bootstrap-fill, .bi-bootstrap {
+  color: #7952b3;
+}
+
+.fa-bootstrap:hover,
+.bi-bootstrap-fill:hover, .bi-bootstrap:hover {
+  color: black;
+}
+
 .fa-creative-commons {
   color: #121513;
 }
@@ -96,6 +106,16 @@
 
 .fa-digg:hover {
   color: inherit;
+}
+
+.fa-discord,
+.bi-discord {
+  color: #7289DA;
+}
+
+.fa-discord:hover,
+.bi-discord:hover {
+  color: #000000;
 }
 
 .fa-dropbox {
@@ -130,11 +150,13 @@
   color: inherit;
 }
 
-.fa-facebook, .fa-facebook-f, .fa-facebook-official, .fa-facebook-square {
+.fa-facebook, .fa-facebook-f, .fa-facebook-official, .fa-facebook-square,
+.bi-facebook {
   color: #3B5998;
 }
 
-.fa-facebook:hover, .fa-facebook-f:hover, .fa-facebook-official:hover, .fa-facebook-square:hover {
+.fa-facebook:hover, .fa-facebook-f:hover, .fa-facebook-official:hover, .fa-facebook-square:hover,
+.bi-facebook:hover {
   color: inherit;
 }
 
@@ -170,11 +192,13 @@
   color: #3D2D00;
 }
 
-.fa-github, .fa-github-alt, .fa-github-square {
+.fa-github, .fa-github-alt, .fa-github-square,
+.bi-github {
   color: black;
 }
 
-.fa-github:hover, .fa-github-alt:hover, .fa-github-square:hover {
+.fa-github:hover, .fa-github-alt:hover, .fa-github-square:hover,
+.bi-github:hover {
   color: #4078C0;
 }
 
@@ -220,11 +244,13 @@
   color: #E9E5CD;
 }
 
-.fa-google {
+.fa-google,
+.bi-google {
   color: #4285F4;
 }
 
-.fa-google:hover {
+.fa-google:hover,
+.bi-google:hover {
   color: inherit;
 }
 
@@ -262,11 +288,11 @@
   background-color: #F3CE00;
 }
 
-.fa-instagram {
+.fa-instagram, .fa-instagram-square {
   color: black;
 }
 
-.fa-instagram:hover {
+.fa-instagram:hover, .fa-instagram-square:hover {
   color: inherit;
 }
 
@@ -312,11 +338,13 @@
   color: #1D365D;
 }
 
-.fa-linkedin, .fa-linkedin-square, .fa-linkedin-in {
+.fa-linkedin, .fa-linkedin-square, .fa-linkedin-in,
+.bi-linkedin {
   color: #0077B5;
 }
 
-.fa-linkedin:hover, .fa-linkedin-square:hover, .fa-linkedin-in:hover {
+.fa-linkedin:hover, .fa-linkedin-square:hover, .fa-linkedin-in:hover,
+.bi-linkedin:hover {
   color: inherit;
 }
 
@@ -432,11 +460,13 @@
   color: inherit;
 }
 
-.fa-slack, .fa-slack-hash {
+.fa-slack, .fa-slack-hash,
+.bi-slack {
   color: #2D333A;
 }
 
-.fa-slack:hover, .fa-slack-hash:hover {
+.fa-slack:hover, .fa-slack-hash:hover,
+.bi-slack:hover {
   color: inherit;
 }
 
@@ -504,19 +534,23 @@
   color: #444444;
 }
 
-.fa-twitch {
+.fa-twitch,
+.bi-twitch {
   color: #6441A4;
 }
 
-.fa-twitch:hover {
+.fa-twitch:hover,
+.bi-twitch:hover {
   color: black;
 }
 
-.fa-twitter, .fa-twitter-square {
+.fa-twitter, .fa-twitter-square,
+.bi-twitter {
   color: #55ACEE;
 }
 
-.fa-twitter:hover, .fa-twitter-square:hover {
+.fa-twitter:hover, .fa-twitter-square:hover,
+.bi-twitter:hover {
   color: inherit;
 }
 
@@ -592,27 +626,33 @@
   color: black;
 }
 
-.fa-youtube, .fa-youtube-play, .fa-youtube-square {
+.fa-youtube, .fa-youtube-play, .fa-youtube-square,
+.bi-youtube {
   color: #E52D27;
 }
 
-.fa-youtube:hover, .fa-youtube-play:hover, .fa-youtube-square:hover {
+.fa-youtube:hover, .fa-youtube-play:hover, .fa-youtube-square:hover,
+.bi-youtube:hover {
   color: inherit;
 }
 
 /** Colors for solid icons. */
-.fa-heart, .fa-heart-o, .fa-heartbeat {
+.fa-heart, .fa-heart-o, .fa-heartbeat,
+.bi-heart-fill, .bi-heart-half, .bi-heart {
   color: red;
 }
 
-.fa-heart:hover, .fa-heart-o:hover, .fa-heartbeat:hover {
+.fa-heart:hover, .fa-heart-o:hover, .fa-heartbeat:hover,
+.bi-heart-fill:hover, .bi-heart-half:hover, .bi-heart:hover {
   color: inherit;
 }
 
-.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
-  color: yellow;
+.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o,
+.bi-star-fill, .bi-star-half, .bi-star {
+  color: #FFA41C;
 }
 
-.fa-star:hover, .fa-star-half:hover, .fa-star-half-empty:hover, .fa-star-half-full:hover, .fa-star-half-o:hover, .fa-star-o:hover {
+.fa-star:hover, .fa-star-half:hover, .fa-star-half-empty:hover, .fa-star-half-full:hover, .fa-star-half-o:hover, .fa-star-o:hover,
+.bi-star-fill:hover, .bi-star-half:hover, .bi-star:hover {
   color: inherit;
 }

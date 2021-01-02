@@ -1,10 +1,12 @@
 /** Colors for solid icons. */
-.fa-heart, .fa-heart-o, .fa-heartbeat {
+.fa-heart, .fa-heart-o, .fa-heartbeat,
+.bi-heart-fill, .bi-heart-half, .bi-heart {
 	color: red;
 	&:hover { color: inherit; }
 }
 
-.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
-	color: yellow;
+.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o,
+.bi-star-fill, .bi-star-half, .bi-star {
+	color: #FFA41C;
 	&:hover { color: inherit; }
 }
