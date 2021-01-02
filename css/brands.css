@@ -1,6 +1,3 @@
-/**
- * Colors for Font Awesome icons.
- */
 /** Colors for brand icons. */
 .fa-android {
   color: #A4C639;
@@ -597,22 +594,5 @@
 }
 
 .fa-youtube:hover, .fa-youtube-play:hover, .fa-youtube-square:hover {
-  color: inherit;
-}
-
-/** Colors for solid icons. */
-.fa-heart, .fa-heart-o, .fa-heartbeat {
-  color: red;
-}
-
-.fa-heart:hover, .fa-heart-o:hover, .fa-heartbeat:hover {
-  color: inherit;
-}
-
-.fa-star, .fa-star-half, .fa-star-half-empty, .fa-star-half-full, .fa-star-half-o, .fa-star-o {
-  color: yellow;
-}
-
-.fa-star:hover, .fa-star-half:hover, .fa-star-half-empty:hover, .fa-star-half-full:hover, .fa-star-half-o:hover, .fa-star-o:hover {
   color: inherit;
 }

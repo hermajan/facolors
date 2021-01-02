@@ -8,5 +8,6 @@ Colors for [Font Awesome](https://fontawesome.com/) icons.
 Install this via one of package managers:
 * [Composer](https://getcomposer.org) - `composer require hermajan/facolors`
 * [npm](https://www.npmjs.com) - `npm i @hermajan/facolors`
-* [Yarn](https://yarnpkg.com/) - `yarn add @hermajan/facolors`
 
+## Documentation
+Usage and documentation for this project is in [GitHub wiki](https://github.com/hermajan/facolors/wiki).

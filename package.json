@@ -1,9 +1,12 @@
 {
 	"name": "@hermajan/facolors",
 	"description": "Colors for Font Awesome icons.",
-	"keywords": ["fontawesome", "icons"],
+	"keywords": [
+		"fontawesome",
+		"icons"
+	],
 	"license": "MIT",
-	"version": "0.1.1",
+	"version": "0.2",
 	"homepage": "https://hermajan.net/facolors",
 	"bugs": "https://github.com/hermajan/facolors/issues",
 	"repository": {
@@ -12,6 +15,15 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"@fortawesome/fontawesome-free": "^5.1.0"
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^7.0.1",
+		"gulp-cli": "^2.3.0",
+		"gulp-postcss": "^8.0.0",
+		"gulp-rename": "^2.0.0",
+		"gulp-sass": "^4.1.0"
+	},
+	"optionalDependencies": {
+		"@fortawesome/fontawesome-free": "^5.15.1",
+		"font-awesome": "^4.7.0"
 	}
 }
