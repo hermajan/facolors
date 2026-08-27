@@ -5,6 +5,13 @@
 
 <p id="readme-perex">Colors for <a href="https://icons.getbootstrap.com/">Bootstrap</a> and <a href="https://fontawesome.com/">Font Awesome</a> icons.</p>
 
+## ✨ Features
+* **Multi-Library Support**: Tailored colors for both Bootstrap Icons and Font Awesome icons (v4.7 and v5+).
+* **Brand & Solid Icons**: Predefined authentic brand colors and solid icon styles (e.g., hearts, stars).
+* **Interactive Hover States**: Built-in `:hover` state color transitions for icons.
+* **CSS & SCSS Support**: Ready-to-use compiled CSS files or source SASS/SCSS files for seamless integration.
+* **Package Manager Ready**: Easily install and manage via Composer or npm.
+
 ## 📥 Installation
 Install your desired icon pack:
 * Bootstrap icons - see [Install](https://icons.getbootstrap.com/#install)
